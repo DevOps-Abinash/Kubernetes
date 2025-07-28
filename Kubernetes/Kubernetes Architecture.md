@@ -53,3 +53,11 @@ ________________________________________
 •	Controller Manager ensures the pod keeps running.
 
 •	Cluster state is saved in etcd.
+
+________________________________________
+## 👤 Author
+
+**Abinash Parida**  
+🔗 [GitHub](https://github.com/DevOps-Abinash)  
+🔗 [LinkedIn](https://www.linkedin.com/in/abinash-parida)
+
