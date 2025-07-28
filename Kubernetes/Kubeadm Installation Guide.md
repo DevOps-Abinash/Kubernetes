@@ -191,3 +191,11 @@ kubectl get nodes
 ## Verify Container Status on Worker Node
 <img src="https://github.com/user-attachments/assets/c3d3732f-5c99-4a27-a574-86bc7ae5a933" width="70%">
 
+
+
+
+## 👤 Author
+
+**Abinash Parida**  
+🔗 [GitHub](https://github.com/DevOps-Abinash)  
+🔗 [LinkedIn](https://www.linkedin.com/in/abinash-parida)
