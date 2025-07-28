@@ -88,3 +88,10 @@ http://<any-ec2-public-ip>:30080
 ```
 Make sure port 30080 is added to your EC2 security group.
 
+
+## 👤 Author
+
+**Abinash Parida**  
+🔗 [GitHub](https://github.com/DevOps-Abinash)  
+🔗 [LinkedIn](https://www.linkedin.com/in/abinash-parida)
+
