@@ -1,7 +1,9 @@
-Kubernetes Architect 
+**Kubernetes Architect**
+
+<img width="1090" height="468" alt="image" src="https://github.com/user-attachments/assets/60e205e3-6550-4f6b-afb0-ab9705f9e61f" />
 
  
-🔷 Master Node Components (Control Plane)
+🔷 **Master Node Components (Control Plane)**
 The Master Node manages the cluster and schedules workloads.
 1.	Kubectl
 o	A CLI tool used by users/admins to communicate with the cluster.
@@ -21,7 +23,7 @@ o	Acts as Kubernetes’ database.
 ________________________________________
 
 
-🔶 Worker Node Components
+🔶 **Worker Node Components**
 Worker Nodes run your application workloads in Pods.
 1.	Kubelet
 o	Agent that runs on each worker node.
@@ -37,10 +39,17 @@ o	Each pod runs on a Worker Node.
 4.	Docker
 o	Container runtime used to run containerized applications inside pods.
 ________________________________________
-🔁 How it works:
+
+🔁 **How it works:**
+
 •	kubectl sends a command to the API Server.
+
 •	Scheduler picks a worker node to place the pod.
+
 •	Kubelet on that node runs the pod using Docker.
+
 •	Kube-Proxy ensures network communication to/from the pod.
+
 •	Controller Manager ensures the pod keeps running.
+
 •	Cluster state is saved in etcd.
